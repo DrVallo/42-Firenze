@@ -28,6 +28,6 @@ Projects
 <a href="https://github.com/DrVallo/42-Firenze/tree/main/ft_printf">![42 Badge](https://github.com/DrVallo/42-Firenze/blob/main/42_badges/ft_printfm.png)</a>
 <a href="">![42 Badge](https://github.com/DrVallo/42-Firenze/blob/main/42_badges/born2berootm.png)</a>
 <a href="https://github.com/DrVallo/42-Firenze/tree/main/Minitalk">![42 Badge](https://github.com/DrVallo/42-Firenze/blob/main/42_badges/minitalkm.png)</a>
-<a href="">![42 Badge](https://github.com/DrVallo/42-Firenze/blob/main/42_badges/so_longn.png?raw=true)</a>
+<a href="https://github.com/DrVallo/42-Firenze/tree/main/so_long">![42 Badge](https://github.com/DrVallo/42-Firenze/blob/main/42_badges/so_longm.png?raw=true)</a>
 
 </div>
