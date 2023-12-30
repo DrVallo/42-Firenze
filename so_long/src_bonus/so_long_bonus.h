@@ -11,7 +11,7 @@
 /* ************************************************************************** */
 
 #ifndef SO_LONG_BONUS_H
-# define SO_LONGH_BONUS_H
+# define SO_LONG_BONUS_H
 
 # define KEY_W 119
 # define KEY_A 97
